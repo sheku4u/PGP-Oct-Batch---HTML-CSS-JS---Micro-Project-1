@@ -20,7 +20,6 @@ main {
     align-items: center;
     justify-content: space-between;
     height: 70vh;
-
 }
 
 .content-text {
@@ -99,7 +98,6 @@ footer {
     align-items: center;
     padding-top: 1em;
     height: 27.9vh;
-
 }
 
 ul {
@@ -120,7 +118,6 @@ ul {
     justify-content: flex-end;
     text-align: end;
     row-gap: 0.2em;
-
 }
 
 .ul3 {
@@ -164,10 +161,8 @@ ul {
         width: 41%;
         display: flex;
         flex-direction: column;
-        /* margin: auto; */
         text-align: start;
         row-gap: 0.8em;
-        /* height: auto; */
     }
     .content-text h1, h3{
         font-size: 1em;
@@ -211,7 +206,6 @@ ul {
         line-height: 1.8em;
         padding-top: 2px;
         padding-bottom: 2px;
-        /* padding-inline: 10px; */
     }
 
     a {
@@ -289,7 +283,6 @@ ul {
 
     main {
         background-color: rgba(255, 205, 158, 1);
-        /* height: 100%; */
         padding: 1em;
     }
 
@@ -297,7 +290,6 @@ ul {
     .main-content {
         display: flex;
         align-items: center;
-        /* justify-content: space-between; */
         height: 65vh;
         margin: 0;
 
@@ -306,11 +298,6 @@ ul {
     .content-text {
         width: 100%;
         display: flex;
-        /* flex-direction: column;
-        margin: auto;
-        text-align: start;
-        row-gap: 1.8em; */
-        /* height: auto; */
         flex-direction: column;
         row-gap: 2em;
         margin-top: 4em;
@@ -360,7 +347,6 @@ ul {
         line-height: 1.8em;
         padding-top: 2px;
         padding-bottom: 2px;
-        /* padding-inline: 10px; */
     }
 
     a {
@@ -373,10 +359,6 @@ ul {
 
     .content-img {
         display: none;
-        /* padding: 1em;
-        justify-content: center;
-        width: 20em;
-        height: 16em; */
     }
 
     /* footer body */
